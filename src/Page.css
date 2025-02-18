@@ -1,0 +1,24 @@
+p{
+    font-family: "Pacifico";
+    font-size: 40px;
+    color: green;
+    margin-left: 620px;
+}
+.textfield{
+    width: 350px;
+    height: 20px;
+    position: relative;
+    left: 530px;
+
+}
+.btn{
+    position: relative;
+    left: 550px;
+    bottom: 40px;
+}
+.btn1{
+    position: relative;
+    left: 345px;
+    bottom: 20px;
+}
+
